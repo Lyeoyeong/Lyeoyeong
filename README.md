@@ -1,6 +1,4 @@
-- 👋 Aviary - Ankylosing Spondylitis related
-- 🌱 Bobolink - Bookdown related
-- 👀 Lyeoyeong
+- 🌱 Aviary - Ankylosing Spondylitis related
 - 🌱 Pelican - Python related
 - 🌱 Raven - R related
 

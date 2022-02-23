@@ -1,6 +1,6 @@
 - 🌱 Aviary - Ankylosing Spondylitis study
-- 🌱 Pelican - Python study
-- 🌱 Raven - R study
+- 🌱 Pelican (Public) - Python study
+- 🌱 Raven (Public) - R study
 - 🌱 Lyrebird - Log file for data analysis
 
 <!---

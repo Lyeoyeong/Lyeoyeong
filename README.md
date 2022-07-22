@@ -1,8 +1,8 @@
-- 🌱 Aviary (private) - Axial spondyloarthritis; Bookdown
-- 🌱 Pelican - Python
-- 🌱 Raven - R
-- 🌱 Lyrebird (private) - Log file of data analysis
-- 🌱 Throstle (private) - Toolbox 
+- Aviary (private) - Axial Spondyloarthritis Bookdown
+- Pelican - Python
+- Raven - R
+- Lyrebird (private) - Log file of data analysis
+- Throstle (private) - Toolbox 
 
 <!---
 Lyeoyeong/Lyeoyeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
